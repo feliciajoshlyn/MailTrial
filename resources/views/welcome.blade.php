@@ -27,7 +27,7 @@
       </div>
     </div>
 
-    <h1 class="text-3xl font-semibold text-gray-800">Welcome to <span class="text-amber-500">Cloud Class ☁️</span></h1>
+    <h1 class="text-3xl font-semibold text-gray-800">Welcome to <span class="text-amber-500">Labubu Class ☁️</span></h1>
     <p class="text-gray-600 mt-3">Learn about cloud computing! 🌤️</p>
 
     <!-- Button -->
